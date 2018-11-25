@@ -26,6 +26,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'spree_sample', s.version
   s.add_dependency 'spree_cmd', s.version
   s.add_dependency 'globalize' 
-  s.add_dependency 'spree_i18n' 
   s.add_dependency 'spree_static_content'
 end
